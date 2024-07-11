@@ -49,7 +49,6 @@
     padding-left: 267px;
 }
 .img{
-    /* Group */
 position: absolute;
 width: 259.56px;
 height: 217.01px;
@@ -61,26 +60,21 @@ padding-left: 950px;
 padding-top: 750px;
 }
 .Learn-More{
-    /* Frame 8 */
 position: static;
 width: 150px;
 height: 48px;
-/* Auto layout */
 display: flex;
 flex-direction: row;
 justify-content: center;
 align-items: center;
 padding: 12px 20px 12px 20px;
-
-
-/* Inside Auto Layout */
 flex: none;
 order: 1;
 flex-grow: 0;
 margin: 32px 0px;
 }
 .img2{
- /* Group */
+ 
 position: absolute;
 width: 223.2px;
 height: 208.85px;
@@ -112,19 +106,15 @@ text-align: left;
 padding-left: 600px;
 }
 .Learn-More2{
-    /* Frame 8 */
 position: static;
 width: 150px;
 height: 48px;
-/* Auto layout */
 display: flex;
 flex-direction: row;
 justify-content: center;
 align-items: center;
 padding: 12px 20px 12px 20px;
 
-
-/* Inside Auto Layout */
 flex: none;
 order: 1;
 flex-grow: 0;
